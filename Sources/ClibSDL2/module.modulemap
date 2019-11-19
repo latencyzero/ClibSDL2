@@ -1,0 +1,4 @@
+module ClibSDL2 [system] {
+    umbrella header "shim.h"
+    link "SDL2"
+}
